@@ -1,0 +1,18 @@
+=== TUGAS 1 ===
+
+BACA dan SIMPAN "angka pertama"
+BACA dan SIMPAN "angka kedua"
+HITUNG perkalian "angka pertama" dan "angka kedua
+TAMPILKAN hasil hitungan
+
+=== TUGAS 2 ===
+BACA dan SIMPAN "kalimat"
+IF kalimat bertuliskan "Saya Belajar JavaScript!",
+TULISKAN "Pasti Bisa!"
+
+=== TUGAS 3 ===
+BACA dan SIMPAN "angka"
+Dimulai dari 1, hitung 1 mod 3, 
+jika hasilnya nol, simpan "kelipatan3"
+ULANGI hingga "angka"
+TAMPILKAN hasil "kelipatan3"

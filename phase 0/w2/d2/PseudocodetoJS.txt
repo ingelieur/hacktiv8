@@ -1,0 +1,39 @@
+=== TUGAS 1 ===
+
+var nama = prompt("Nama: ","");
+var aPembilang = prompt ("Angka Pembilang: ", "");
+var aPenyebut = prompt ("Angka Penyebut: ", "");
+
+var hasil = aPembilang/aPenyebut;
+
+console.log("Halo " + nama + ", " + aPembilang + " dibagi " + aPenyebut + " adalah sama dengan "+ hasil);
+
+=== TUGAS 2 ===
+
+var alas = prompt("Alas segitiga: ","");
+var tinggi = prompt ("Tinggi segitiga: ", "");
+
+var luasSegitiga = alas*tinggi/2;
+
+console.log("Luas Segitiga: "+ luasSegitiga);
+
+=== TUGAS 3 ===
+
+var tahun = prompt("Masukkan tahun: ","");
+
+if (tahun%4 === 0) {
+  if (tahun%100 !== 0) {
+    console.log(tahun + " adalah tahun kabisat");
+  }
+  else {
+    if (tahun%400 === 0) {
+      console.log(tahun + " adalah tahun kabisat");
+    }
+    else {
+    console.log(tahun + " adalah bukan tahun kabisat");
+    }
+  }
+}
+else {
+  console.log(tahun + " adalah bukan tahun kabisat");
+}
