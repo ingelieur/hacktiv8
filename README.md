@@ -38,7 +38,7 @@ The repository includes challenges that were given during the bootcamp. Starting
   * [Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana](https://github.com/ingelieur/hacktiv8/blob/master/phase%200/w2/d1/conditionalninteration.js)
 
 * Day 2
-  * [Membuat algoritma sederhana dalam pseudocode](hhttps://github.com/ingelieur/hacktiv8/blob/master/phase%200/w2/d2/Pseudocode-Shabrina-Virta-Inmas.txt)
+  * [Membuat algoritma sederhana dalam pseudocode](https://github.com/ingelieur/hacktiv8/blob/master/phase%200/w2/d2/Pseudocode-Shabrina-Virta-Inmas.txt)
   * [Mengenal Penggunaan Functions](https://github.com/ingelieur/hacktiv8/blob/master/phase%200/w2/d2/Function-Shabrina-Virta-Inmas.txt)
   * [Menyelesaikan Codecademy JavaScript Course Unit 1](https://github.com/ingelieur/hacktiv8/blob/master/phase%200/w2/d2/Codecademy-JavaScript-Unit1-Shabrina-V-Inmas.png)
   * [Menyelesaikan Codecademy JavaScript Course Unit 2](https://github.com/ingelieur/hacktiv8/blob/master/phase%200/w2/d2/Codecademy-JavaScript-Unit2-Shabrina-V-Inmas.png.png)
