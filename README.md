@@ -27,7 +27,7 @@ The repository includes challenges that were given during the bootcamp. Starting
   * [Mempelajari Markdown dan Membuat README.md](https://github.com/ingelieur/ingelieur.github.io/blob/master/README.md)
   * [Membuat Branch Baru pada Repositori](https://github.com/ingelieur/ingelieur.github.io/blob/development/README.md)
 
-* Day 5 [WEEKLY PROJECT - Website yang dihosting dengan Github Pages](http://www.ingelieur.com/hacktiv8/phase%200/w1/d5/Weekly%20Project/index.html)
+* Day 5 - [WEEKLY PROJECT - Website yang dihosting dengan Github Pages](http://www.ingelieur.com/hacktiv8/phase%200/w1/d5/Weekly%20Project/index.html)
 
 ### Week 2
 * Day 1
@@ -56,7 +56,7 @@ The repository includes challenges that were given during the bootcamp. Starting
   * [Tantangan Menggunakan Object 2](https://github.com/ingelieur/hacktiv8/blob/master/phase%200/w2/d4/object_2.js)
   * [Tantangan Menggunakan JSON](https://github.com/ingelieur/hacktiv8/blob/master/phase%200/w2/d4/json.js)
 
-* Day 5 [WEEKLY PROJECT - Simple JavaScript Games](https://github.com/ingelieur/hacktiv8/blob/master/phase%200/w2/d5/FinalProject.js)
+* Day 5 - [WEEKLY PROJECT - Simple JavaScript Games](https://github.com/ingelieur/hacktiv8/blob/master/phase%200/w2/d5/FinalProject.js)
 
 ### Week3
 * Day 1
@@ -118,7 +118,7 @@ The repository includes challenges that were given during the bootcamp. Starting
 * Day 2 [Penjelajahan dan Manipulasi DOM Sederhana](http://www.ingelieur.com/hacktiv8/phase%200/w5/d2/index.html)
 * Day 3 [Memahami DOM Events](http://www.ingelieur.com/hacktiv8/phase%200/w5/d3/form.html)
 * Day 4 [Menyusun Layout HTML dengan JavaScript](http://www.ingelieur.com/hacktiv8/phase%200/w5/d4/index.html)
-* Day 5 [WEEKLY PROJECT - Simple JavaScript Games]()
+* Day 5 - [WEEKLY PROJECT - Simple JavaScript Games]()
 
 ### Week6
 * Day 3 [Mengubah Sintaks ES5 ke ES6]()
