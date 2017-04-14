@@ -1,0 +1,78 @@
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Bangers" rel="stylesheet">
+  <title>Registration Form</title>
+  <style>
+  * {
+    box-sizing: border-box;
+  }
+  header {
+    font-family: 'Press Start 2P', cursive;
+    color: rgba(0,0,0,0.7);
+    text-align: center;
+    margin: 3% auto;
+  }
+  form {
+    font-family: 'Bangers', cursive;
+    font-size: 130%;
+    line-height: 1.5em;
+    color: rgba(0,0,0,0.8);
+    display: block;
+    margin: 3% auto;
+    padding: 0 3% 2% 3%;
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: rgba(250,0,0,0.5);
+  }
+  .inputBox {
+    width: 100%;
+    font-family: 'Bangers', cursive;
+    font-size: 75%;
+    line-height: 1.5em;
+  }
+  #submit{
+    font-family: 'Bangers', cursive;
+    font-size: 150%;
+    color: white;
+    background-color: red;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding: 2% 7%;
+    border-style: none;
+  }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>REGISTRATION FORM</h1>
+  </header>
+  <!-- method = "post" = supaya isi formnya ga ditulis di url -->
+  <form action="#" id="main-form" method="post">
+    <p>
+      <label for="user-name">Username:<br></label>
+      <input id="user-name" name="userName" type="text" class="inputBox" value="">
+    </p>
+    <p>
+      <label for="email">Email Address:<br></label>
+      <input id="email" name="email" type="email" class="inputBox" value="" pattern="([a-zA-Z0-9._%+-]+@[a-z0-9.-]+\.[a-zA-Z]{2,3}$)" placeholder="nama@domain.com">
+    </p>
+    <p>
+      <label for="confirm-email">Confirm Email Address:<br></label>
+      <input id="confirm-email" name="confirmEmail" type="email" class="inputBox" value="" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,3}$" placeholder="repeat your email address">
+    </p>
+    <p>
+      <label for="password">Password:<br></label>
+      <input id="password" name="password" type="password" class="inputBox" value="" pattern=".{6,}" placeholder="at least 6 characters" >
+    </p>
+    <p>
+      <label for="confirm-password">Confirm Password:<br></label>
+      <input id="confirm-password" name="confirmPassword" type="password" class="inputBox" value="" pattern=".{6,}" placeholder="repeat your password" >
+    </p>
+    <input id="submit" type="submit" value="Submit">
+  </form>
+  <script src="script.js"></script>
+</body>
+</html>
