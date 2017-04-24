@@ -121,6 +121,7 @@ The repository includes challenges that were given during the bootcamp. Starting
 * Day 5 [WEEKLY PROJECT - Simple JavaScript Games]()
 
 ### Week6
+* Day 1/2 [Final Live Coding]()
 * Day 3 [Mengubah Sintaks ES5 ke ES6]()
 * Day 4 [Menyusun Class ES6]()
 * Day 5 [Menggunakan Map, Filter, dan Reduce di JavaScript untuk menyelesaikan kasus sederhana]()
